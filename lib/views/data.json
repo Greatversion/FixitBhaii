@@ -1,0 +1,255 @@
+{
+    "services": {
+      "111": {
+        "service_name": "Laptop Screen Repair",
+        "category_ids": ["category_id123", "category_id666"],
+        "sub_category_ids": ["subcat_id123", "subcat_id666"],
+        "service_description": "Repair and replace broken laptop screens",
+        "price_model": {
+          "min_price": 3000,
+          "max_price": 5000
+        },
+        "service_schedule": {
+          "Mon": ["10:00 AM", "12:00 PM", "03:00 PM"],
+          "Tue": ["10:00 AM", "12:00 PM"]
+        },
+        "estimated_time": {
+          "time": 44,
+          "unit": "minutes"
+        },
+        "service_rating": {
+          "avg_rating": 4.5,
+          "reviews_count": 120
+        },
+        "tags": ["urgent", "affordable", "premium"],
+        "service_type": "premium",
+        "status": "active"
+      },
+      "112": {
+        "service_name": "AC Repair",
+        "category_ids": ["category_id124", "category_id667"],
+        "sub_category_ids": ["subcat_id124", "subcat_id667"],
+        "service_description": "Fix and maintain air conditioning units",
+        "price_model": {
+          "min_price": 1500,
+          "max_price": 4000
+        },
+        "service_schedule": {
+          "Wed": ["09:00 AM", "01:00 PM", "05:00 PM"],
+          "Thu": ["10:00 AM", "02:00 PM"]
+        },
+        "estimated_time": {
+          "time": 60,
+          "unit": "minutes"
+        },
+        "service_rating": {
+          "avg_rating": 4.0,
+          "reviews_count": 80
+        },
+        "tags": ["urgent", "reliable"],
+        "service_type": "premium",
+        "status": "active"
+      },
+      "113": {
+        "service_name": "Plumbing Services",
+        "category_ids": ["category_id125", "category_id668"],
+        "sub_category_ids": ["subcat_id125", "subcat_id668"],
+        "service_description": "Plumbing repairs for water and sewage systems",
+        "price_model": {
+          "min_price": 500,
+          "max_price": 2500
+        },
+        "service_schedule": {
+          "Mon": ["08:00 AM", "11:00 AM", "02:00 PM"],
+          "Wed": ["09:00 AM", "12:00 PM"]
+        },
+        "estimated_time": {
+          "time": 30,
+          "unit": "minutes"
+        },
+        "service_rating": {
+          "avg_rating": 4.2,
+          "reviews_count": 95
+        },
+        "tags": ["affordable", "emergency"],
+        "service_type": "basic",
+        "status": "active"
+      },
+      "114": {
+        "service_name": "Home Painting",
+        "category_ids": ["category_id126", "category_id669"],
+        "sub_category_ids": ["subcat_id126", "subcat_id669"],
+        "service_description": "Interior and exterior home painting services",
+        "price_model": {
+          "min_price": 4000,
+          "max_price": 10000
+        },
+        "service_schedule": {
+          "Tue": ["09:00 AM", "01:00 PM"],
+          "Fri": ["02:00 PM", "04:00 PM"]
+        },
+        "estimated_time": {
+          "time": 120,
+          "unit": "minutes"
+        },
+        "service_rating": {
+          "avg_rating": 4.7,
+          "reviews_count": 150
+        },
+        "tags": ["affordable", "decorative"],
+        "service_type": "premium",
+        "status": "active"
+      },
+      "115": {
+        "service_name": "Mobile Screen Repair",
+        "category_ids": ["category_id127", "category_id670"],
+        "sub_category_ids": ["subcat_id127", "subcat_id670"],
+        "service_description": "Repair cracked or damaged mobile screens",
+        "price_model": {
+          "min_price": 1000,
+          "max_price": 3000
+        },
+        "service_schedule": {
+          "Mon": ["09:00 AM", "11:00 AM"],
+          "Thu": ["12:00 PM", "03:00 PM"]
+        },
+        "estimated_time": {
+          "time": 20,
+          "unit": "minutes"
+        },
+        "service_rating": {
+          "avg_rating": 4.6,
+          "reviews_count": 200
+        },
+        "tags": ["urgent", "affordable"],
+        "service_type": "basic",
+        "status": "active"
+      },
+      "116": {
+        "service_name": "Laptop Keyboard Repair",
+        "category_ids": ["category_id128", "category_id671"],
+        "sub_category_ids": ["subcat_id128", "subcat_id671"],
+        "service_description": "Repair faulty laptop keyboards",
+        "price_model": {
+          "min_price": 1200,
+          "max_price": 3500
+        },
+        "service_schedule": {
+          "Mon": ["09:00 AM", "02:00 PM"],
+          "Wed": ["10:00 AM", "01:00 PM"]
+        },
+        "estimated_time": {
+          "time": 40,
+          "unit": "minutes"
+        },
+        "service_rating": {
+          "avg_rating": 4.3,
+          "reviews_count": 110
+        },
+        "tags": ["reliable", "affordable"],
+        "service_type": "premium",
+        "status": "active"
+      },
+      "117": {
+        "service_name": "Electrical Wiring",
+        "category_ids": ["category_id129", "category_id672"],
+        "sub_category_ids": ["subcat_id129", "subcat_id672"],
+        "service_description": "Electrical wiring and circuit installation",
+        "price_model": {
+          "min_price": 1500,
+          "max_price": 6000
+        },
+        "service_schedule": {
+          "Tue": ["08:00 AM", "12:00 PM"],
+          "Fri": ["01:00 PM", "03:00 PM"]
+        },
+        "estimated_time": {
+          "time": 60,
+          "unit": "minutes"
+        },
+        "service_rating": {
+          "avg_rating": 4.8,
+          "reviews_count": 135
+        },
+        "tags": ["affordable", "emergency"],
+        "service_type": "basic",
+        "status": "active"
+      },
+      "118": {
+        "service_name": "TV Repair",
+        "category_ids": ["category_id130", "category_id673"],
+        "sub_category_ids": ["subcat_id130", "subcat_id673"],
+        "service_description": "Repair broken or faulty televisions",
+        "price_model": {
+          "min_price": 2000,
+          "max_price": 7000
+        },
+        "service_schedule": {
+          "Mon": ["10:00 AM", "12:00 PM"],
+          "Thu": ["03:00 PM", "06:00 PM"]
+        },
+        "estimated_time": {
+          "time": 50,
+          "unit": "minutes"
+        },
+        "service_rating": {
+          "avg_rating": 4.4,
+          "reviews_count": 130
+        },
+        "tags": ["urgent", "affordable"],
+        "service_type": "premium",
+        "status": "active"
+      },
+      "119": {
+        "service_name": "Dishwasher Repair",
+        "category_ids": ["category_id131", "category_id674"],
+        "sub_category_ids": ["subcat_id131", "subcat_id674"],
+        "service_description": "Fix malfunctioning dishwashers",
+        "price_model": {
+          "min_price": 2500,
+          "max_price": 8000
+        },
+        "service_schedule": {
+          "Tue": ["09:00 AM", "12:00 PM"],
+          "Fri": ["02:00 PM", "04:00 PM"]
+        },
+        "estimated_time": {
+          "time": 75,
+          "unit": "minutes"
+        },
+        "service_rating": {
+          "avg_rating": 4.5,
+          "reviews_count": 100
+        },
+        "tags": ["reliable", "affordable"],
+        "service_type": "premium",
+        "status": "active"
+      },
+      "120": {
+        "service_name": "Washing Machine Repair",
+        "category_ids": ["category_id132", "category_id675"],
+        "sub_category_ids": ["subcat_id132", "subcat_id675"],
+        "service_description": "Repair and maintain washing machines",
+        "price_model": {
+          "min_price": 1800,
+          "max_price": 5000
+        },
+        "service_schedule": {
+          "Wed": ["10:00 AM", "02:00 PM"],
+          "Sat": ["12:00 PM", "03:00 PM"]
+        },
+        "estimated_time": {
+          "time": 60,
+          "unit": "minutes"
+        },
+        "service_rating": {
+          "avg_rating": 4.6,
+          "reviews_count": 150
+        },
+        "tags": ["affordable", "reliable"],
+        "service_type": "basic",
+        "status": "active"
+      }
+    }
+  }
+  
